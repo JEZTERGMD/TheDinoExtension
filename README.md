@@ -1,2 +1,1 @@
-# TheDinoExtension
-The DINO extension
+Note: It's just a joke extension.
